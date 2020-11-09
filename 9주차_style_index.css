@@ -1,0 +1,59 @@
+body{
+    line-height:1.7;
+    color:darkseagreen;
+    font-weight:400;
+    font-size:1rem;
+}
+
+h1 {font-style:italic; color:cornflowerblue;}
+h2,h4 {
+    color:lightseagreen;
+}
+h1,h2,h4{
+    margin-top:0;
+    margin-bottom:0.5rem
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:none;
+}
+.menu{
+    border-bottom:2px slategrey;
+}
+ul{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom:0;
+    padding-inline-start:0px;
+}
+.name{
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style:italic;
+}
+.text{
+    padding:6px;
+    border:6px olive;
+    border-style:dotted;
+    background-color:honeydew;
+
+}
+.img-fluid{
+    width:50%;
+    height:auto;
+}
+.diary{
+    background-color:honeydew;
+    font-style:italic;
+    text-align:right;
+}
+.caption{
+    text-transform:uppercase;
+    font-weight:800;
+    letter-spacing:.2em;
+    font-size:12;
+    padding:8px 10px;
+    color:lightseagreen;
+    display:inline-block;
+}
